@@ -1,0 +1,6 @@
+C:\Users\abuzer\Documents\SharpDevelop Projects\mass centre\mass centre\obj\Debug\mass centre.csprojResolveAssemblyReference.cache
+C:\Users\abuzer\Documents\SharpDevelop Projects\mass centre\mass centre\bin\Debug\mass centre.exe.config
+C:\Users\abuzer\Documents\SharpDevelop Projects\mass centre\mass centre\bin\Debug\mass centre.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\mass centre\mass centre\bin\Debug\mass centre.pdb
+C:\Users\abuzer\Documents\SharpDevelop Projects\mass centre\mass centre\obj\Debug\mass centre.exe
+C:\Users\abuzer\Documents\SharpDevelop Projects\mass centre\mass centre\obj\Debug\mass centre.pdb
